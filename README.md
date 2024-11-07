@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Luis Augusto<br><br>- 🔭 I’m working as android development<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I play guitar eletric</p>
+<p align="left">I'm Luis Augusto<br><br>- 🔭 I’m working as android development<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I play eletric guitar</p>
 
 ###
 
