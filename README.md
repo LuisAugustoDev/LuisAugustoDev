@@ -40,11 +40,11 @@ Sou um entusiasta da tecnologia e estudante de Informática no IFRN. Tenho 18 an
 align="left"
 alt="Github stats"
 height="200px"
-style="padding-right: 20px;"
-src="https://github-readme-stats.vercel.app/api?username=LuisAugustoDev&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515"/>
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=LuisAugustoDev&show_icons=true&theme=tokyonight"/>
 
 <img 
 align="left"
 alt="Language stats"
 height="200px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugustoDev&layout=compact&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&hide_progress=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugustoDev&layout=compact&theme=tokyonight&hide_progress=true"/>
