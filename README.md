@@ -39,12 +39,12 @@ Sou um entusiasta da tecnologia e estudante de Informática no IFRN. Tenho 18 an
 <img 
 align="left"
 alt="Github stats"
-height="100"
+height="150"
 style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=LuisAugustoDev&show_icons=true&theme=tokyonight"/>
 
 <img 
 align="left"
 alt="Language stats"
-height="100"
+height="150"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugustoDev&layout=compact&theme=tokyonight&hide_progress=true"/>
