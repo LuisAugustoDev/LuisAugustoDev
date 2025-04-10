@@ -1,6 +1,6 @@
 # 👾 Luís Augusto
 
-**`Deselvolvedor Full Stack`**
+**`Desenvolvedor Full Stack`**
 
 Sou um entusiasta da tecnologia e estudante de Informática no IFRN. Tenho 18 anos e estou me preparando para me tornar um desenvolvedor full stack. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e mobile, como também, na área de design de interfaces.
 <br>
