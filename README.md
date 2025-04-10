@@ -7,7 +7,8 @@ Sou um entusiasta da tecnologia e estudante de Informática no IFRN. Tenho 18 an
 
 - 💻 Buscando sempre aprender mais sobre programação e desenvolvimento de software.  
   <br>
-- 🚀 Interessado em construir projetos inovadores e soluções eficientes.  
+- 🚀 Interessado em construir projetos inovadores e soluções eficientes.
+  
   Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada! 😊
 
 <br>
